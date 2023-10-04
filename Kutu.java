@@ -10,6 +10,6 @@ public class Kutu extends Enemies
 {
     public Kutu(){
         this.reward = 1;
-        this.speed = 3;
+        this.speed = 2;
     }
 }
